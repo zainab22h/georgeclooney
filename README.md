@@ -1,10 +1,6 @@
-Sinatra
+InstaDetect
 =============
 
-Brought to you by Lighthouse Labs
+Brought to you by Cody Brouwers
 
-## Getting Started
-
-1. `bundle install`
-2. `shotgun -p 3000 -o 0.0.0.0`
-3. Visit `http://localhost:3000/` in your browser
+This is an app that you can use to search Instagram tags and also use face detection to get information about the faces in the instagram picture.
