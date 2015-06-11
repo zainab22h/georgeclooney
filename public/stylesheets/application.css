@@ -1,0 +1,30 @@
+#title {
+  text-align: center;
+}
+
+.title_search {
+  margin: 0 auto;
+  width: 900px;
+}
+
+.input-group {
+  padding-bottom: 2em;
+}
+
+#search {
+  width: 32em;
+  margin: 0 auto;
+}
+
+ul {
+  float: left;
+}
+
+.list-group {
+  margin: 0 auto;
+  width: 900px;
+}
+
+.attributes {
+  transform: translateY(175%);
+}
