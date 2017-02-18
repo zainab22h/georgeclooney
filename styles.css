@@ -1,0 +1,84 @@
+header {
+  background-color: #82bef5;
+  color: tomato;
+}
+.center {
+  text-align: center;
+}
+.profile-picture {
+  width: 150px;
+  height:150px;
+  padding:1%;
+  background-color: #466C88;
+  border-radius: 50%;
+}
+h1, h2 {
+  font-family: "Bungee", serif;
+}
+body {
+  font-family: 'open sans', sans-serif;
+}
+header h1 {
+  margin: 0;
+   font-size:50px
+}
+header p {
+  margin: 0;
+   font-size: 16px
+}
+aside {
+  background-color: #ADE9F8  ;
+  color: #5697FB
+  width: 82%;
+  float: right;
+}
+aside ul li a {
+  font-size: 20px;
+  color:#5697FB;
+  cursor: pointer;
+  font-family: 'Bungee, seriff;'
+
+}
+main {
+  background-color: #ADE9F8
+  width: 72%;
+  float: center;
+}
+main h1 {
+  color:#127E79
+}
+main h2 {
+  color:#127E79;
+}
+footer {
+  background-color: #3B80E9;
+  color: #fff;
+}
+
+#social-media img {
+  width: 20px;
+  padding: 1.5%;
+}
+.container {
+  overflow: hidden;
+  background-color:#D0F4F6
+}
+
+aside ul li a:hover {
+  color: #FF6DCC
+}
+ h1:hover {
+   color: #FF6DCC
+ }
+ @media all and (max-width:850px){
+   main, aside {
+     width:100%;
+   }
+   section {
+     padding-right:20px;
+     padding-left:20px
+   }
+ }
+ <main {
+   all and (max-width: 600px)
+ }
